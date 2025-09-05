@@ -15,7 +15,7 @@ JSON (datos simulados de estudiantes y cursos)
 
 ⚙️ Instalación y ejecución
 
-Clona el repositorio: git clone https://github.com/tu-usuario/matriculacion-academica.git
+Clona el repositorio: git clone https://github.com/jcabarcas16/Prueba-tecnica.git
 cd matriculacion-academica
 
 Instala dependencias:
